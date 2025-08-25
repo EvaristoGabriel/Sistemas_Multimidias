@@ -18,17 +18,14 @@ O trabalho realizado consiste em utilizar o FFMPEG para manipulação de vídeo 
 
 ## Estrutura do Projeto
 
+```bash
 Sistemas_Multimidias/
-
 │
-
-├─ main.ipynb # Notebook principal com o código
-
-├─ runs/ # Pasta para armazenar os pesos do YOLO
-
-├─ requirements.txt # Bibliotecas necessárias para compilar e executar o projeto
-
-└─ README.md # Documentação do projeto
+├── main.ipynb          # Notebook principal com o código
+├── runs/               # Pasta para armazenar os pesos do YOLO
+├── requirements.txt    # Bibliotecas necessárias
+└── README.md           # Documentação do projeto
+```
 
 
 ## Funcionalidades
